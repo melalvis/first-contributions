@@ -49,6 +49,7 @@
 - [Alexandre Blanquero](https://github.com/Alexandreblnqro)
 - [Akash Hasnat](https://github.com/Akash-hasnat/Akash-hasnat)
 - [Lucas Fontes](https://github.com/lvbfontes)
+- [Melanie Alvis](https://github.com/melalvis)
 - [Jason Moldovan](https://github.com/moldovanjason)
 - [Siddhartha Rao](https://github.com/siddhartharao17)
 - [Grace K](https://github.com/kelleygrace88)
